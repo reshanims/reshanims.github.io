@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reshanims.github.io/static/css/main.2db507cf.css",
-    "main.js": "/reshanims.github.io/static/js/main.452d9ae9.js",
-    "static/media/gazetry3.png": "/reshanims.github.io/static/media/gazetry3.3fa09da4e0b9bdd25db6.png",
-    "static/media/sprites.svg": "/reshanims.github.io/static/media/sprites.c08944fed399e84633d0.svg",
-    "index.html": "/reshanims.github.io/index.html",
-    "static/media/grabbing.svg": "/reshanims.github.io/static/media/grabbing.92ec62eb995e79248066.svg",
-    "static/media/grab.svg": "/reshanims.github.io/static/media/grab.6a052e927d39314632fd.svg",
-    "static/media/background.svg": "/reshanims.github.io/static/media/background.73c746e88409ccb4b512.svg",
-    "static/media/compass.svg": "/reshanims.github.io/static/media/compass.0f193cd39061ea43cc46.svg",
-    "main.2db507cf.css.map": "/reshanims.github.io/static/css/main.2db507cf.css.map",
-    "main.452d9ae9.js.map": "/reshanims.github.io/static/js/main.452d9ae9.js.map"
+    "main.css": "/static/css/main.73723402.css",
+    "main.js": "/static/js/main.ad801b52.js",
+    "static/media/gazetry3.png": "/static/media/gazetry3.3fa09da4e0b9bdd25db6.png",
+    "static/media/sprites.svg": "/static/media/sprites.c08944fed399e84633d0.svg",
+    "index.html": "/index.html",
+    "static/media/grabbing.svg": "/static/media/grabbing.92ec62eb995e79248066.svg",
+    "static/media/grab.svg": "/static/media/grab.6a052e927d39314632fd.svg",
+    "static/media/background.svg": "/static/media/background.73c746e88409ccb4b512.svg",
+    "static/media/compass.svg": "/static/media/compass.0f193cd39061ea43cc46.svg",
+    "main.73723402.css.map": "/static/css/main.73723402.css.map",
+    "main.ad801b52.js.map": "/static/js/main.ad801b52.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db507cf.css",
-    "static/js/main.452d9ae9.js"
+    "static/css/main.73723402.css",
+    "static/js/main.ad801b52.js"
   ]
 }
